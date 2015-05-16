@@ -14,7 +14,7 @@ Veranschaulicht die Nutzung des Component Routers, welcher mit AngularJS 1.4 ber
 ## Verzeichnisstruktur
 
 - src: Hier befinden sich die EcmaScript-6-Dateien
-- app: Beinhaltet die Kompilate
+- components: Beinhaltet die Kompilate
 
 ## Vor dem Ausführen
 
