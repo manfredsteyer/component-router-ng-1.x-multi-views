@@ -1,6 +1,6 @@
-# AngularJS-ES6 Starterkit
+# component-router-ng-1.x-multi-views 
 
-Dieses Starterkit veranschaulicht die gemeinsame Nutzung von AngularJS 1.x und EcmaScript 6. Es kompiliert EcmaScript-6-Dateien mit einem Gulp-Task, der sich auf auf den Transpiler Babel stützt.
+Veranschaulicht die Nutzung des Component Routers, welcher mit AngularJS 1.4 bereitgestellt wird und sowohl mit AngularJS 1.3+ als auch mit Angular 2.0 genutzt werden kann. Der Fokus liegt bei diesem Beispiel auf multiple Views.
 
 ## Verwendete Werkzeuge
 
