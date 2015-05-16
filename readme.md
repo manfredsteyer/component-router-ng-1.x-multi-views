@@ -8,6 +8,8 @@ Veranschaulicht die Nutzung des Component Routers, welcher mit AngularJS 1.4 ber
 - [Gulp](http://gulpjs.com/) zum Automatisieren der Kompilierung
 - [Babel](https://babeljs.io/) als Compiler (Transpiler)
 - [JSPM](http://jspm.io/) als Paket-Manager, der ES6-Module unterstützt
+- [Angular](https://angular.io)
+- [Component Router](https://github.com/angular/router) in der Version 0.5.x
 
 ## Verzeichnisstruktur
 
